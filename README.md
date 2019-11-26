@@ -1,4 +1,4 @@
-# TitaniumPhoenix V2
+# NokuNetwork
 
 A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone; for students, by students.
 
@@ -14,7 +14,7 @@ This web-app, measuring about 20 MB, is designed to be as light on server storag
 
 #### Locally Stored and Hosted Proxy Server
 
-This allows your PhoenixHub site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
+This allows your NokuNetwork site to have a proxy already equipped when you deploy it so you can quickly get to circumventing censorship!
 
 #### Games
 
@@ -22,11 +22,11 @@ This site has links to many games on a CDN for quick and efficient access.
 
 #### Chatboxes
 
-Chatboxes for TitaniumNetwork's Services. Replace if needed.
+Chatboxes for NokuNetwork's Services. Replace if needed.
 
 #### Suggest Some Stuff!
  
 Create an Issue if you have problems with the site and a staff member will address your concerns.
 
 #
-Property of TitaniumNetwork. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of TitaniumPhoenix are open-source.
+Property of NokuNetwork. You have permission to modify, however we require that you leave it open-source AND to credit us since many components of NokuNetwork are open-source.
